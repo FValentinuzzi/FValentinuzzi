@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FValentinuzzi
 - 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning Project Management, Python and Azure
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on NLP, Entity Matching and Trend forecast
 - 📫 How to reach me frankie.valentinuzzi89@gmail.com
 
 <!---
